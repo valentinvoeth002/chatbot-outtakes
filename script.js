@@ -39,6 +39,62 @@ const outtakes = [
       { role: "bot", text: "Richtig, Entschuldigung. Der Kuchen kommt erst bei Deep Learning." }
     ]
   }
+    title: "Ein Rezept, das niemand bestellt hat",
+    messages: [
+      { role: "user", text: "Erklär mir bitte kurz, was Machine Learning ist." },
+      { role: "bot", text: "Zuerst brauchst du 200g Mehl und zwei Eier." },
+      { role: "user", text: "Ich habe nach Machine Learning gefragt, nicht nach einem Kuchen." },
+      { role: "bot", text: "Richtig, Entschuldigung. Der Kuchen kommt erst bei Deep Learning." }
+    ]
+  }
+ title: "Ein Rezept, das niemand bestellt hat",
+    messages: [
+      { role: "user", text: "Erklär mir bitte kurz, was Machine Learning ist." },
+      { role: "bot", text: "Zuerst brauchst du 200g Mehl und zwei Eier." },
+      { role: "user", text: "Ich habe nach Machine Learning gefragt, nicht nach einem Kuchen." },
+      { role: "bot", text: "Richtig, Entschuldigung. Der Kuchen kommt erst bei Deep Learning." }
+    ]
+  }
+ title: "Ein Rezept, das niemand bestellt hat",
+    messages: [
+      { role: "user", text: "Erklär mir bitte kurz, was Machine Learning ist." },
+      { role: "bot", text: "Zuerst brauchst du 200g Mehl und zwei Eier." },
+      { role: "user", text: "Ich habe nach Machine Learning gefragt, nicht nach einem Kuchen." },
+      { role: "bot", text: "Richtig, Entschuldigung. Der Kuchen kommt erst bei Deep Learning." }
+    ]
+  }
+ title: "Ein Rezept, das niemand bestellt hat",
+    messages: [
+      { role: "user", text: "Erklär mir bitte kurz, was Machine Learning ist." },
+      { role: "bot", text: "Zuerst brauchst du 200g Mehl und zwei Eier." },
+      { role: "user", text: "Ich habe nach Machine Learning gefragt, nicht nach einem Kuchen." },
+      { role: "bot", text: "Richtig, Entschuldigung. Der Kuchen kommt erst bei Deep Learning." }
+    ]
+  }
+ title: "Ein Rezept, das niemand bestellt hat",
+    messages: [
+      { role: "user", text: "Erklär mir bitte kurz, was Machine Learning ist." },
+      { role: "bot", text: "Zuerst brauchst du 200g Mehl und zwei Eier." },
+      { role: "user", text: "Ich habe nach Machine Learning gefragt, nicht nach einem Kuchen." },
+      { role: "bot", text: "Richtig, Entschuldigung. Der Kuchen kommt erst bei Deep Learning." }
+    ]
+  }
+ title: "Ein Rezept, das niemand bestellt hat",
+    messages: [
+      { role: "user", text: "Erklär mir bitte kurz, was Machine Learning ist." },
+      { role: "bot", text: "Zuerst brauchst du 200g Mehl und zwei Eier." },
+      { role: "user", text: "Ich habe nach Machine Learning gefragt, nicht nach einem Kuchen." },
+      { role: "bot", text: "Richtig, Entschuldigung. Der Kuchen kommt erst bei Deep Learning." }
+    ]
+  }
+ title: "Ein Rezept, das niemand bestellt hat",
+    messages: [
+      { role: "user", text: "Erklär mir bitte kurz, was Machine Learning ist." },
+      { role: "bot", text: "Zuerst brauchst du 200g Mehl und zwei Eier." },
+      { role: "user", text: "Ich habe nach Machine Learning gefragt, nicht nach einem Kuchen." },
+      { role: "bot", text: "Richtig, Entschuldigung. Der Kuchen kommt erst bei Deep Learning." }
+    ]
+  }
 
   // Beispiel für weitere Einträge:
   // {
