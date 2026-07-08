@@ -2,15 +2,15 @@
    WüBot Outtakes – Design-Tokens
    ========================================================== */
 :root {
-  --bg: #F3F4FA;
+  --bg: #F2F5F3;
   --surface: #FFFFFF;
   --ink: #1F2430;
   --ink-soft: #5B6072;
-  --accent: #E63950;      /* WüBot-Rot */
-  --accent-soft: #FDE7EA;
-  --mint: #2EC4B6;        /* Zweitakzent für Steuerelemente */
+  --accent: #1E5631;      /* WüBot-Dunkelgrün */
+  --accent-soft: #E3EFE6;
+  --mint: #C98A2C;        /* Zweitakzent für Steuerelemente (warmes Gold) */
   --bot-bubble: #EEF0F6;
-  --user-bubble: linear-gradient(135deg, #E63950, #F0576C);
+  --user-bubble: linear-gradient(135deg, #1E5631, #2E7D46);
   --radius-lg: 22px;
   --radius-sm: 12px;
   --shadow: 0 20px 45px -25px rgba(31, 36, 48, 0.35);
@@ -105,6 +105,23 @@ body {
   align-items: center;
   justify-content: center;
   font-size: 0.95rem;
+  overflow: hidden;
+  position: relative;
+}
+
+.chat-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.avatar-fallback {
+  display: none;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
 }
 
 .chat-title {
