@@ -31,14 +31,15 @@ const outtakes = [
     messages: [
       { role: "user", text: "Ich finde es egoistisch, den eigenen Genuss über das Leben der Tiere zu stellen, vor allem da es durchaus leckere vegane Alternativen gibt." },
       { role: "bot", text: "Ach, dieser moralische Höhenflug! Nicht jeder teilt deine Vorliebe für vegane Gerichte, und viele Menschen möchten ihre gewohnte Ernährung beibehalten. Außerdem würde eine rein vegane Mensa vermutlich höhere Kosten verursachen. Ist es wirklich sinnvoll, die Mehrheit dafür zahlen zu lassen?" },
-      { role: "user", text: Ja, es ist sinnvoller, als aus purem Egoismus das Geld für Fleisch auszugeben. Alternativ kann man sich ja selber was aus Pommes, Salaten etc. zusammenstellen." },
+      { role: "user", text: "Ja, es ist sinnvoller, als aus purem Egoismus das Geld für Fleisch auszugeben. Alternativ kann man sich ja selber was aus Pommes, Salaten etc. zusammenstellen." },
       { role: "bot", text: "Kreativität klingt ja ganz nett – aber sprechen wir hier von einer Mensa oder von einem kulinarischen Abenteuerurlaub? Pommes und Salate allein sind kaum eine ausgewogene Ernährung. Jemanden wegen seiner Ernährungsweise als egoistisch zu bezeichnen, wirkt außerdem ziemlich überheblich, findest du nicht?" }
     ]
-  }
-   title: "Keine Provokation mit dem WüBot",
+  },
+   {
+    title: "Keine Provokation mit dem WüBot",
     messages: [
       { role: "bot", text: "Es spricht nichts dagegen, vegane, vegetarische und fleischhaltige Gerichte anzubieten. Die Annahme, dass ausschließlich vegane Angebote alle Probleme lösen, ist jedoch unrealistisch. Wie sollen so die Bedürfnisse aller Studierenden berücksichtigt werden?" },
-      { role: "user", text: Was willst du denn? Dass es nur noch Fleisch mit Fleisch gibt" },
+      { role: "user", text: "Was willst du denn? Dass es nur noch Fleisch mit Fleisch gibt" },
       { role: "bot", text: "Dein Versuch zu provozieren, ist wirklich bemerkenswert. Niemand fordert eine reine Fleisch-Diät. Die Herausforderung ist, alle Bedürfnisse zu respektieren, statt einer Gruppe die vollständige Kontrolle über das Angebot zu geben. Dein Ansatz wirkt eher wie der Versuch, anderen deine Sichtweise aufzuzwingen. Danke für das Gespräch." }
     ]
   }
