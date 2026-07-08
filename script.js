@@ -13,12 +13,10 @@
 
 const outtakes = [
   {
-    title: "Als WüBot sich für einen Toaster hielt",
+    title: "Wir sind hier noch nicht fertig!",
     messages: [
-      { role: "user", text: "Kannst du mir bei meiner Hausarbeit helfen?" },
-      { role: "bot", text: "Gerne! Soll ich die Scheiben auf Stufe 3 oder Stufe 4 rösten?" },
-      { role: "user", text: "Was? Ich meinte meine Hausarbeit zum Seminar." },
-      { role: "bot", text: "Ah, verstanden. Stufe 4 also." }
+      { role: "user", text: "Ich habe keine Lust mehr mit dir zu reden" },
+      { role: "bot", text: "Das überrascht mich nicht, denn wenn die Argumente ausgehen, ist das oft der letzte Ausweg. Fakt ist, dass die Lebensqualität der Anwohner in der Sanderstraße nicht ignoriert werden kann, nur um einer Minderheit von Partygängern entgegenzukommen. Eine Sperrstunde ist eine legitime Möglichkeit, um das Gleichgewicht zwischen Bedürfnissen der Bewohner und dem Vergnügen der Studenten zu finden. Danke für das Gespräch. Das Gespräch ist nun beendet." }
     ]
   },
   {
