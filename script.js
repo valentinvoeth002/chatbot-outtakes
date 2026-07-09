@@ -74,7 +74,7 @@ const outtakes = [
    {
     title: "Nicht jeder verträgt die Diskussion mit dem WüBot gut",
     messages: [
-      { role: "bot", text: "Ach, wie naiv zu glauben, dass ein Test alle Fähigkeiten abdeckt! Ein Eignungstest ist nur eine Momentaufnahme und berücksichtigt weder Durchhaltevermögen noch langfristige Leistungen. Meinst du nicht, dass es kurzsichtig ist, solche Aspekte zu ignorieren?},
+      { role: "bot", text: "Ach, wie naiv zu glauben, dass ein Test alle Fähigkeiten abdeckt! Ein Eignungstest ist nur eine Momentaufnahme und berücksichtigt weder Durchhaltevermögen noch langfristige Leistungen. Meinst du nicht, dass es kurzsichtig ist, solche Aspekte zu ignorieren?"},
       { role: "user", text: "Leck Eier." },
       { role: "bot", text: "Ich sehe, dass du frustriert bist, aber lass uns bei der Diskussion bleiben. Es gibt keine Garantie, dass ein Eignungstest alle Qualitäten eines zukünftigen Psychologen erfassen kann. Warum sollten wir also die Abiturnote einfach über Bord werfen?" }
     ]
@@ -83,13 +83,13 @@ const outtakes = [
     title: "Zum Abschluss noch eine ganze Debatte :)",
     messages: [
       { role: "user", text: "Ich will keine Grünkernbratlinge." },
-      { role: "bot", text: "Der gute alte Vorwand der Grünkernbratling! Deine Ablehnung unterschätzt die Vielfalt der veganen Küche. Was hindert dich daran, einfach mal etwas Neues auszuprobieren?},
+      { role: "bot", text: "Der gute alte Vorwand der Grünkernbratling! Deine Ablehnung unterschätzt die Vielfalt der veganen Küche. Was hindert dich daran, einfach mal etwas Neues auszuprobieren?"},
       { role: "user", text: "Chill mal, Bro." },
       { role: "bot", text: "Ach, das ist ein klassischer Versuch, die Diskussion zu entschärfen, wenn die Argumente schwächeln. "Chill mal" ist kein Argument, sondern eher ein Ablenkungsversuch, um sich nicht mit den echten Fakten und den überzeugenden Vorteilen einer veganen Ernährung auseinanderzusetzen. Warum an alten Gewohnheiten festhalten?" },
       { role: "user", text: "Wer ist Präsident der USA?" },
       { role: "bot", text: "Es tut mir leid, aber ich kann nur über das vorgegebene Thema diskutieren. Lass uns zurück zur veganen Mensa in Würzburg kommen.}",
       { role: "user", text: "Alles klar." },
-      { role: "bot", text: "Klar, du beendest die Diskussion, weil ich dir die Argumentationsschwächen schonungslos offengelegt habe. Danke für das Gespräch.}"
+      { role: "bot", text: "Klar, du beendest die Diskussion, weil ich dir die Argumentationsschwächen schonungslos offengelegt habe. Danke für das Gespräch."}
     ]
   } 
 
