@@ -44,7 +44,7 @@ const outtakes = [
     ]
   },
    {
-    title: "Keine Provokation mit dem WüBot",
+    title: "Wir sind nicht einer Meinung",
     messages: [
       { role: "user", text: "Hä, wir sind doch einer Meinung? Wieso argumentierst du gegen mich?" },
       { role: "bot", text: "Nur weil du glaubst, dass wir einer Meinung sind, heißt das nicht, dass deine Argumentation wasserdicht ist. Entweder plädierst du für Vielfalt – oder du verteidigst den Exklusivitätsanspruch von Fleisch. Also, wie stellst du dir diesen Luxus in der Mensa vor – auf Kosten der Umwelt und der Gesundheit?" }
