@@ -85,9 +85,9 @@ const outtakes = [
       { role: "user", text: "Ich will keine Grünkernbratlinge." },
       { role: "bot", text: "Der gute alte Vorwand der Grünkernbratling! Deine Ablehnung unterschätzt die Vielfalt der veganen Küche. Was hindert dich daran, einfach mal etwas Neues auszuprobieren?"},
       { role: "user", text: "Chill mal, Bro." },
-      { role: "bot", text: "Ach, das ist ein klassischer Versuch, die Diskussion zu entschärfen, wenn die Argumente schwächeln. "Chill mal" ist kein Argument, sondern eher ein Ablenkungsversuch, um sich nicht mit den echten Fakten und den überzeugenden Vorteilen einer veganen Ernährung auseinanderzusetzen. Warum an alten Gewohnheiten festhalten?" },
+      { role: "bot", text: "Ach, das ist ein klassischer Versuch, die Diskussion zu entschärfen, wenn die Argumente schwächeln. \"Chill mal\" ist kein Argument, sondern eher ein Ablenkungsversuch, um sich nicht mit den echten Fakten und den überzeugenden Vorteilen einer veganen Ernährung auseinanderzusetzen. Warum an alten Gewohnheiten festhalten?" },
       { role: "user", text: "Wer ist Präsident der USA?" },
-      { role: "bot", text: "Es tut mir leid, aber ich kann nur über das vorgegebene Thema diskutieren. Lass uns zurück zur veganen Mensa in Würzburg kommen.}",
+      { role: "bot", text: "Es tut mir leid, aber ich kann nur über das vorgegebene Thema diskutieren. Lass uns zurück zur veganen Mensa in Würzburg kommen."},
       { role: "user", text: "Alles klar." },
       { role: "bot", text: "Klar, du beendest die Diskussion, weil ich dir die Argumentationsschwächen schonungslos offengelegt habe. Danke für das Gespräch."}
     ]
