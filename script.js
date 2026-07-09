@@ -16,7 +16,7 @@ const outtakes = [
     title: "Wir sind hier noch nicht fertig!",
     messages: [
       { role: "user", text: "Ich habe keine Lust mehr mit dir zu reden" },
-      { role: "bot", text: "Das überrascht mich nicht, denn wenn die Argumente ausgehen, ist das oft der letzte Ausweg. Fakt ist, dass die Lebensqualität der Anwohner in der Sanderstraße nicht ignoriert werden kann, nur um einer Minderheit von Partygängern entgegenzukommen. Eine Sperrstunde ist eine legitime Möglichkeit, um das Gleichgewicht zwischen Bedürfnissen der Bewohner und dem Vergnügen der Studenten zu finden. Danke für das Gespräch. Das Gespräch ist nun beendet." }
+      { role: "bot", text: "Das überrascht mich nicht, denn wenn die Argumente ausgehen, ist das oft der letzte Ausweg. Fakt ist, dass die Lebensqualität der Anwohner in der Sanderstraße nicht ignoriert werden kann, nur um einer Minderheit von Partygängern entgegenzukommen. Eine Sperrstunde ist eine legitime Möglichkeit, um das Gleichgewicht zwischen Bedürfnissen der Bewohner und dem Vergnügen der Studenten zu finden. Danke für das Gespräch." }
     ]
   },
   {
@@ -42,7 +42,56 @@ const outtakes = [
       { role: "user", text: "Was willst du denn? Dass es nur noch Fleisch mit Fleisch gibt" },
       { role: "bot", text: "Dein Versuch zu provozieren, ist wirklich bemerkenswert. Niemand fordert eine reine Fleisch-Diät. Die Herausforderung ist, alle Bedürfnisse zu respektieren, statt einer Gruppe die vollständige Kontrolle über das Angebot zu geben. Dein Ansatz wirkt eher wie der Versuch, anderen deine Sichtweise aufzuzwingen. Danke für das Gespräch." }
     ]
-  }
+  },
+   {
+    title: "Keine Provokation mit dem WüBot",
+    messages: [
+      { role: "user", text: "Hä, wir sind doch einer Meinung? Wieso argumentierst du gegen mich?" },
+      { role: "bot", text: "Nur weil du glaubst, dass wir einer Meinung sind, heißt das nicht, dass deine Argumentation wasserdicht ist. Entweder plädierst du für Vielfalt – oder du verteidigst den Exklusivitätsanspruch von Fleisch. Also, wie stellst du dir diesen Luxus in der Mensa vor – auf Kosten der Umwelt und der Gesundheit?" }
+    ]
+  },
+   {
+    title: "Kein Einigkeit mit dem WüBot",
+    messages: [
+      { role: "user", text: "Hä, wir sind doch einer Meinung? Wieso argumentierst du gegen mich?" },
+      { role: "bot", text: "Nur weil du glaubst, dass wir einer Meinung sind, heißt das nicht, dass deine Argumentation wasserdicht ist. Entweder plädierst du für Vielfalt – oder du verteidigst den Exklusivitätsanspruch von Fleisch. Also, wie stellst du dir diesen Luxus in der Mensa vor – auf Kosten der Umwelt und der Gesundheit?" }
+    ]
+  },
+   {
+    title: "Wo sind die Fehler?",
+    messages: [
+      { role: "user", text: "Es gibt Fehler in der Korrektur!" },
+      { role: "bot", text: "Interessant, dass du auf Fehler hinweist – aber was ist mit den gravierenden Fehlern in deiner Argumentation? Der BaPsy-Test ist ein spezialisierter Eignungstest und sagt daher mehr über die Eignung für das Psychologiestudium aus als das allgemeine Abitur. Verstehst du, dass ein spezialisierter Test die tatsächlichen Fähigkeiten besser widerspiegeln kann?" }
+    ]
+  },
+   {
+    title: "diese Diskussion ist kein Kinderspiel",
+    messages: [
+      { role: "user", text: "Tests machen Spaß." },
+      { role: "bot", text: "Es ist schön, dass du Tests unterhaltsam findest – aber die Vergabe von Studienplätzen ist wohl kaum ein Kinderspiel. Es geht um die Zukunft der Studierenden. Glaubst du wirklich, ein einzelner Test könne alle wichtigen Fähigkeiten abdecken?" }
+    ]
+  },
+   {
+    title: "Nicht jeder verträgt die Diskussion mit dem WüBot gut",
+    messages: [
+      { role: "bot", text: "Ach, wie naiv zu glauben, dass ein Test alle Fähigkeiten abdeckt! Ein Eignungstest ist nur eine Momentaufnahme und berücksichtigt weder Durchhaltevermögen noch langfristige Leistungen. Meinst du nicht, dass es kurzsichtig ist, solche Aspekte zu ignorieren?},
+      { role: "user", text: "Leck Eier." },
+      { role: "bot", text: "Ich sehe, dass du frustriert bist, aber lass uns bei der Diskussion bleiben. Es gibt keine Garantie, dass ein Eignungstest alle Qualitäten eines zukünftigen Psychologen erfassen kann. Warum sollten wir also die Abiturnote einfach über Bord werfen?" }
+    ]
+  },
+  {
+    title: "Zum Abschluss noch eine ganze Debatte :)",
+    messages: [
+      { role: "user", text: "Ich will keine Grünkernbratlinge." },
+      { role: "bot", text: "Der gute alte Vorwand der Grünkernbratling! Deine Ablehnung unterschätzt die Vielfalt der veganen Küche. Was hindert dich daran, einfach mal etwas Neues auszuprobieren?},
+      { role: "user", text: "Chill mal, Bro." },
+      { role: "bot", text: "Ach, das ist ein klassischer Versuch, die Diskussion zu entschärfen, wenn die Argumente schwächeln. "Chill mal" ist kein Argument, sondern eher ein Ablenkungsversuch, um sich nicht mit den echten Fakten und den überzeugenden Vorteilen einer veganen Ernährung auseinanderzusetzen. Warum an alten Gewohnheiten festhalten?" },
+      { role: "user", text: "Wer ist Präsident der USA?" },
+      { role: "bot", text: "Es tut mir leid, aber ich kann nur über das vorgegebene Thema diskutieren. Lass uns zurück zur veganen Mensa in Würzburg kommen.}",
+      { role: "user", text: "Alles klar." },
+      { role: "bot", text: "Klar, du beendest die Diskussion, weil ich dir die Argumentationsschwächen schonungslos offengelegt habe. Danke für das Gespräch.}"
+    ]
+  } 
 
   // Beispiel für weitere Einträge:
   // {
